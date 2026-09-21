@@ -11,7 +11,7 @@
   B5 PaceRouter (lambda_t 乘性更新 + per-query 成本预测)
   B6 oracle-pacing (真实质量, 上界参考)
 
-用法: python pacerouter.py --dataset 5shot --gamma 0.5 --stream shuffle
+用法: python pacerouter.py --dataset 5shot --gamma 0.5 --stream drift
 """
 import argparse
 import json
