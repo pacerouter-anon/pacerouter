@@ -1,0 +1,1412 @@
+{
+  "ms_42_shuffle_0.25": {
+    "B1_random": {
+      "q": 0.6086,
+      "overspend": 843.47,
+      "unused": 0.0
+    },
+    "B2_always_cheapest": {
+      "q": 0.4988,
+      "overspend": 0.0,
+      "unused": 39.0
+    },
+    "B2_always_gpt4": {
+      "q": 0.8027,
+      "overspend": 3405.22,
+      "unused": 0.0
+    },
+    "B3_static": {
+      "q": 0.6004,
+      "overspend": 5.72,
+      "unused": 0.0
+    },
+    "B4_static_hardstop": {
+      "q": 0.5941,
+      "overspend": 0.0,
+      "unused": 0.0
+    },
+    "B4b_cascade": {
+      "q": 0.5541,
+      "overspend": 52.58,
+      "unused": 0.0
+    },
+    "B3b_static_knn": {
+      "q": 0.5515,
+      "overspend": 0.0,
+      "unused": 17.77
+    },
+    "B5_pacerouter": {
+      "q": 0.5894,
+      "overspend": 0.01,
+      "unused": 0.0
+    },
+    "B6_oracle_pacing": {
+      "q": 0.8506,
+      "overspend": 0.01,
+      "unused": 0.0
+    }
+  },
+  "ms_42_shuffle_0.5": {
+    "B1_random": {
+      "q": 0.6086,
+      "overspend": 578.78,
+      "unused": 0.0
+    },
+    "B2_always_cheapest": {
+      "q": 0.4988,
+      "overspend": 0.0,
+      "unused": 56.11
+    },
+    "B2_always_gpt4": {
+      "q": 0.8027,
+      "overspend": 2421.83,
+      "unused": 0.0
+    },
+    "B3_static": {
+      "q": 0.6699,
+      "overspend": 7.37,
+      "unused": 0.0
+    },
+    "B4_static_hardstop": {
+      "q": 0.6573,
+      "overspend": 0.02,
+      "unused": 0.0
+    },
+    "B4b_cascade": {
+      "q": 0.5697,
+      "overspend": 36.0,
+      "unused": 0.0
+    },
+    "B3b_static_knn": {
+      "q": 0.6613,
+      "overspend": 12.92,
+      "unused": 0.0
+    },
+    "B5_pacerouter": {
+      "q": 0.6569,
+      "overspend": 0.01,
+      "unused": 0.0
+    },
+    "B6_oracle_pacing": {
+      "q": 0.8994,
+      "overspend": 0.0,
+      "unused": 6.81
+    }
+  },
+  "ms_42_shuffle_0.75": {
+    "B1_random": {
+      "q": 0.6086,
+      "overspend": 430.07,
+      "unused": 0.0
+    },
+    "B2_always_cheapest": {
+      "q": 0.4988,
+      "overspend": 0.0,
+      "unused": 65.73
+    },
+    "B2_always_gpt4": {
+      "q": 0.8027,
+      "overspend": 1869.33,
+      "unused": 0.0
+    },
+    "B3_static": {
+      "q": 0.7041,
+      "overspend": 6.43,
+      "unused": 0.0
+    },
+    "B4_static_hardstop": {
+      "q": 0.6916,
+      "overspend": 0.02,
+      "unused": 0.0
+    },
+    "B4b_cascade": {
+      "q": 0.5913,
+      "overspend": 26.3,
+      "unused": 0.0
+    },
+    "B3b_static_knn": {
+      "q": 0.706,
+      "overspend": 13.76,
+      "unused": 0.0
+    },
+    "B5_pacerouter": {
+      "q": 0.6952,
+      "overspend": 0.01,
+      "unused": 0.0
+    },
+    "B6_oracle_pacing": {
+      "q": 0.9086,
+      "overspend": 0.0,
+      "unused": 7.57
+    }
+  },
+  "ms_42_drift_0.25": {
+    "B1_random": {
+      "q": 0.6086,
+      "overspend": 843.47,
+      "unused": 0.0
+    },
+    "B2_always_cheapest": {
+      "q": 0.4988,
+      "overspend": 0.0,
+      "unused": 39.0
+    },
+    "B2_always_gpt4": {
+      "q": 0.8027,
+      "overspend": 3405.22,
+      "unused": 0.0
+    },
+    "B3_static": {
+      "q": 0.5535,
+      "overspend": 0.0,
+      "unused": 18.35
+    },
+    "B4_static_hardstop": {
+      "q": 0.5535,
+      "overspend": 0.0,
+      "unused": 18.35
+    },
+    "B4b_cascade": {
+      "q": 0.5541,
+      "overspend": 52.58,
+      "unused": 0.0
+    },
+    "B3b_static_knn": {
+      "q": 0.5473,
+      "overspend": 0.0,
+      "unused": 20.45
+    },
+    "B5_pacerouter": {
+      "q": 0.588,
+      "overspend": 0.03,
+      "unused": 0.0
+    },
+    "B6_oracle_pacing": {
+      "q": 0.8554,
+      "overspend": 0.01,
+      "unused": 0.0
+    }
+  },
+  "ms_42_drift_0.5": {
+    "B1_random": {
+      "q": 0.6086,
+      "overspend": 578.78,
+      "unused": 0.0
+    },
+    "B2_always_cheapest": {
+      "q": 0.4988,
+      "overspend": 0.0,
+      "unused": 56.11
+    },
+    "B2_always_gpt4": {
+      "q": 0.8027,
+      "overspend": 2421.83,
+      "unused": 0.0
+    },
+    "B3_static": {
+      "q": 0.57,
+      "overspend": 0.0,
+      "unused": 35.32
+    },
+    "B4_static_hardstop": {
+      "q": 0.57,
+      "overspend": 0.0,
+      "unused": 35.32
+    },
+    "B4b_cascade": {
+      "q": 0.5697,
+      "overspend": 36.0,
+      "unused": 0.0
+    },
+    "B3b_static_knn": {
+      "q": 0.5473,
+      "overspend": 0.0,
+      "unused": 42.77
+    },
+    "B5_pacerouter": {
+      "q": 0.6548,
+      "overspend": 0.0,
+      "unused": 1.36
+    },
+    "B6_oracle_pacing": {
+      "q": 0.8977,
+      "overspend": 0.0,
+      "unused": 8.91
+    }
+  },
+  "ms_42_drift_0.75": {
+    "B1_random": {
+      "q": 0.6086,
+      "overspend": 430.07,
+      "unused": 0.0
+    },
+    "B2_always_cheapest": {
+      "q": 0.4988,
+      "overspend": 0.0,
+      "unused": 65.73
+    },
+    "B2_always_gpt4": {
+      "q": 0.8027,
+      "overspend": 1869.33,
+      "unused": 0.0
+    },
+    "B3_static": {
+      "q": 0.5816,
+      "overspend": 0.0,
+      "unused": 45.9
+    },
+    "B4_static_hardstop": {
+      "q": 0.5816,
+      "overspend": 0.0,
+      "unused": 45.9
+    },
+    "B4b_cascade": {
+      "q": 0.5913,
+      "overspend": 26.3,
+      "unused": 0.0
+    },
+    "B3b_static_knn": {
+      "q": 0.5473,
+      "overspend": 0.0,
+      "unused": 55.31
+    },
+    "B5_pacerouter": {
+      "q": 0.6885,
+      "overspend": 0.0,
+      "unused": 4.15
+    },
+    "B6_oracle_pacing": {
+      "q": 0.9059,
+      "overspend": 0.0,
+      "unused": 11.85
+    }
+  },
+  "ms_43_shuffle_0.25": {
+    "B1_random": {
+      "q": 0.6178,
+      "overspend": 845.05,
+      "unused": 0.0
+    },
+    "B2_always_cheapest": {
+      "q": 0.4968,
+      "overspend": 0.0,
+      "unused": 39.08
+    },
+    "B2_always_gpt4": {
+      "q": 0.8061,
+      "overspend": 3378.15,
+      "unused": 0.0
+    },
+    "B3_static": {
+      "q": 0.5741,
+      "overspend": 0.0,
+      "unused": 6.39
+    },
+    "B4_static_hardstop": {
+      "q": 0.5741,
+      "overspend": 0.0,
+      "unused": 6.39
+    },
+    "B4b_cascade": {
+      "q": 0.551,
+      "overspend": 52.97,
+      "unused": 0.0
+    },
+    "B3b_static_knn": {
+      "q": 0.5681,
+      "overspend": 0.0,
+      "unused": 2.31
+    },
+    "B5_pacerouter": {
+      "q": 0.5845,
+      "overspend": 0.02,
+      "unused": 0.0
+    },
+    "B6_oracle_pacing": {
+      "q": 0.8518,
+      "overspend": 0.03,
+      "unused": 0.0
+    }
+  },
+  "ms_43_shuffle_0.5": {
+    "B1_random": {
+      "q": 0.6178,
+      "overspend": 579.5,
+      "unused": 0.0
+    },
+    "B2_always_cheapest": {
+      "q": 0.4968,
+      "overspend": 0.0,
+      "unused": 56.2
+    },
+    "B2_always_gpt4": {
+      "q": 0.8061,
+      "overspend": 2400.84,
+      "unused": 0.0
+    },
+    "B3_static": {
+      "q": 0.6286,
+      "overspend": 0.0,
+      "unused": 10.77
+    },
+    "B4_static_hardstop": {
+      "q": 0.6286,
+      "overspend": 0.0,
+      "unused": 10.77
+    },
+    "B4b_cascade": {
+      "q": 0.5723,
+      "overspend": 35.76,
+      "unused": 0.0
+    },
+    "B3b_static_knn": {
+      "q": 0.5818,
+      "overspend": 0.0,
+      "unused": 22.09
+    },
+    "B5_pacerouter": {
+      "q": 0.6523,
+      "overspend": 0.0,
+      "unused": 0.79
+    },
+    "B6_oracle_pacing": {
+      "q": 0.8981,
+      "overspend": 0.0,
+      "unused": 7.15
+    }
+  },
+  "ms_43_shuffle_0.75": {
+    "B1_random": {
+      "q": 0.6178,
+      "overspend": 430.45,
+      "unused": 0.0
+    },
+    "B2_always_cheapest": {
+      "q": 0.4968,
+      "overspend": 0.0,
+      "unused": 65.81
+    },
+    "B2_always_gpt4": {
+      "q": 0.8061,
+      "overspend": 1852.27,
+      "unused": 0.0
+    },
+    "B3_static": {
+      "q": 0.6755,
+      "overspend": 0.0,
+      "unused": 11.57
+    },
+    "B4_static_hardstop": {
+      "q": 0.6755,
+      "overspend": 0.0,
+      "unused": 11.57
+    },
+    "B4b_cascade": {
+      "q": 0.5885,
+      "overspend": 26.59,
+      "unused": 0.0
+    },
+    "B3b_static_knn": {
+      "q": 0.6299,
+      "overspend": 0.0,
+      "unused": 22.91
+    },
+    "B5_pacerouter": {
+      "q": 0.6961,
+      "overspend": 0.0,
+      "unused": 1.67
+    },
+    "B6_oracle_pacing": {
+      "q": 0.9077,
+      "overspend": 0.0,
+      "unused": 9.67
+    }
+  },
+  "ms_43_drift_0.25": {
+    "B1_random": {
+      "q": 0.6178,
+      "overspend": 845.05,
+      "unused": 0.0
+    },
+    "B2_always_cheapest": {
+      "q": 0.4968,
+      "overspend": 0.0,
+      "unused": 39.08
+    },
+    "B2_always_gpt4": {
+      "q": 0.8061,
+      "overspend": 3378.15,
+      "unused": 0.0
+    },
+    "B3_static": {
+      "q": 0.5433,
+      "overspend": 0.0,
+      "unused": 23.2
+    },
+    "B4_static_hardstop": {
+      "q": 0.5433,
+      "overspend": 0.0,
+      "unused": 23.2
+    },
+    "B4b_cascade": {
+      "q": 0.551,
+      "overspend": 52.97,
+      "unused": 0.0
+    },
+    "B3b_static_knn": {
+      "q": 0.5298,
+      "overspend": 0.0,
+      "unused": 25.97
+    },
+    "B5_pacerouter": {
+      "q": 0.5864,
+      "overspend": 0.0,
+      "unused": 0.07
+    },
+    "B6_oracle_pacing": {
+      "q": 0.8583,
+      "overspend": 0.02,
+      "unused": 0.0
+    }
+  },
+  "ms_43_drift_0.5": {
+    "B1_random": {
+      "q": 0.6178,
+      "overspend": 579.5,
+      "unused": 0.0
+    },
+    "B2_always_cheapest": {
+      "q": 0.4968,
+      "overspend": 0.0,
+      "unused": 56.2
+    },
+    "B2_always_gpt4": {
+      "q": 0.8061,
+      "overspend": 2400.84,
+      "unused": 0.0
+    },
+    "B3_static": {
+      "q": 0.5634,
+      "overspend": 0.0,
+      "unused": 37.23
+    },
+    "B4_static_hardstop": {
+      "q": 0.5634,
+      "overspend": 0.0,
+      "unused": 37.23
+    },
+    "B4b_cascade": {
+      "q": 0.5723,
+      "overspend": 35.76,
+      "unused": 0.0
+    },
+    "B3b_static_knn": {
+      "q": 0.5464,
+      "overspend": 0.0,
+      "unused": 39.87
+    },
+    "B5_pacerouter": {
+      "q": 0.6503,
+      "overspend": 0.0,
+      "unused": 1.64
+    },
+    "B6_oracle_pacing": {
+      "q": 0.8973,
+      "overspend": 0.0,
+      "unused": 8.48
+    }
+  },
+  "ms_43_drift_0.75": {
+    "B1_random": {
+      "q": 0.6178,
+      "overspend": 430.45,
+      "unused": 0.0
+    },
+    "B2_always_cheapest": {
+      "q": 0.4968,
+      "overspend": 0.0,
+      "unused": 65.81
+    },
+    "B2_always_gpt4": {
+      "q": 0.8061,
+      "overspend": 1852.27,
+      "unused": 0.0
+    },
+    "B3_static": {
+      "q": 0.5745,
+      "overspend": 0.0,
+      "unused": 47.34
+    },
+    "B4_static_hardstop": {
+      "q": 0.5745,
+      "overspend": 0.0,
+      "unused": 47.34
+    },
+    "B4b_cascade": {
+      "q": 0.5885,
+      "overspend": 26.59,
+      "unused": 0.0
+    },
+    "B3b_static_knn": {
+      "q": 0.574,
+      "overspend": 0.0,
+      "unused": 42.94
+    },
+    "B5_pacerouter": {
+      "q": 0.6901,
+      "overspend": 0.0,
+      "unused": 4.04
+    },
+    "B6_oracle_pacing": {
+      "q": 0.906,
+      "overspend": 0.0,
+      "unused": 11.6
+    }
+  },
+  "ms_44_shuffle_0.25": {
+    "B1_random": {
+      "q": 0.6083,
+      "overspend": 836.12,
+      "unused": 0.0
+    },
+    "B2_always_cheapest": {
+      "q": 0.4946,
+      "overspend": 0.0,
+      "unused": 39.41
+    },
+    "B2_always_gpt4": {
+      "q": 0.8016,
+      "overspend": 3369.01,
+      "unused": 0.0
+    },
+    "B3_static": {
+      "q": 0.5871,
+      "overspend": 0.93,
+      "unused": 0.0
+    },
+    "B4_static_hardstop": {
+      "q": 0.5859,
+      "overspend": 0.0,
+      "unused": 0.0
+    },
+    "B4b_cascade": {
+      "q": 0.5424,
+      "overspend": 53.07,
+      "unused": 0.0
+    },
+    "B3b_static_knn": {
+      "q": 0.5936,
+      "overspend": 12.02,
+      "unused": 0.0
+    },
+    "B5_pacerouter": {
+      "q": 0.5838,
+      "overspend": 0.01,
+      "unused": 0.0
+    },
+    "B6_oracle_pacing": {
+      "q": 0.8524,
+      "overspend": 0.02,
+      "unused": 0.0
+    }
+  },
+  "ms_44_shuffle_0.5": {
+    "B1_random": {
+      "q": 0.6083,
+      "overspend": 571.49,
+      "unused": 0.0
+    },
+    "B2_always_cheapest": {
+      "q": 0.4946,
+      "overspend": 0.0,
+      "unused": 56.54
+    },
+    "B2_always_gpt4": {
+      "q": 0.8016,
+      "overspend": 2388.39,
+      "unused": 0.0
+    },
+    "B3_static": {
+      "q": 0.6589,
+      "overspend": 1.22,
+      "unused": 0.0
+    },
+    "B4_static_hardstop": {
+      "q": 0.6571,
+      "overspend": 0.0,
+      "unused": 0.0
+    },
+    "B4b_cascade": {
+      "q": 0.5614,
+      "overspend": 36.03,
+      "unused": 0.0
+    },
+    "B3b_static_knn": {
+      "q": 0.6662,
+      "overspend": 11.3,
+      "unused": 0.0
+    },
+    "B5_pacerouter": {
+      "q": 0.6565,
+      "overspend": 0.0,
+      "unused": 0.36
+    },
+    "B6_oracle_pacing": {
+      "q": 0.9008,
+      "overspend": 0.0,
+      "unused": 7.27
+    }
+  },
+  "ms_44_shuffle_0.75": {
+    "B1_random": {
+      "q": 0.6083,
+      "overspend": 423.51,
+      "unused": 0.0
+    },
+    "B2_always_cheapest": {
+      "q": 0.4946,
+      "overspend": 0.0,
+      "unused": 66.11
+    },
+    "B2_always_gpt4": {
+      "q": 0.8016,
+      "overspend": 1839.99,
+      "unused": 0.0
+    },
+    "B3_static": {
+      "q": 0.7004,
+      "overspend": 0.0,
+      "unused": 1.82
+    },
+    "B4_static_hardstop": {
+      "q": 0.7004,
+      "overspend": 0.0,
+      "unused": 1.82
+    },
+    "B4b_cascade": {
+      "q": 0.5804,
+      "overspend": 26.4,
+      "unused": 0.0
+    },
+    "B3b_static_knn": {
+      "q": 0.6946,
+      "overspend": 0.0,
+      "unused": 0.32
+    },
+    "B5_pacerouter": {
+      "q": 0.7021,
+      "overspend": 0.0,
+      "unused": 0.49
+    },
+    "B6_oracle_pacing": {
+      "q": 0.91,
+      "overspend": 0.0,
+      "unused": 8.12
+    }
+  },
+  "ms_44_drift_0.25": {
+    "B1_random": {
+      "q": 0.6083,
+      "overspend": 836.12,
+      "unused": 0.0
+    },
+    "B2_always_cheapest": {
+      "q": 0.4946,
+      "overspend": 0.0,
+      "unused": 39.41
+    },
+    "B2_always_gpt4": {
+      "q": 0.8016,
+      "overspend": 3369.01,
+      "unused": 0.0
+    },
+    "B3_static": {
+      "q": 0.5376,
+      "overspend": 0.0,
+      "unused": 23.68
+    },
+    "B4_static_hardstop": {
+      "q": 0.5376,
+      "overspend": 0.0,
+      "unused": 23.68
+    },
+    "B4b_cascade": {
+      "q": 0.5424,
+      "overspend": 53.07,
+      "unused": 0.0
+    },
+    "B3b_static_knn": {
+      "q": 0.5343,
+      "overspend": 0.0,
+      "unused": 25.33
+    },
+    "B5_pacerouter": {
+      "q": 0.5851,
+      "overspend": 0.01,
+      "unused": 0.0
+    },
+    "B6_oracle_pacing": {
+      "q": 0.8588,
+      "overspend": 0.02,
+      "unused": 0.0
+    }
+  },
+  "ms_44_drift_0.5": {
+    "B1_random": {
+      "q": 0.6083,
+      "overspend": 571.49,
+      "unused": 0.0
+    },
+    "B2_always_cheapest": {
+      "q": 0.4946,
+      "overspend": 0.0,
+      "unused": 56.54
+    },
+    "B2_always_gpt4": {
+      "q": 0.8016,
+      "overspend": 2388.39,
+      "unused": 0.0
+    },
+    "B3_static": {
+      "q": 0.5598,
+      "overspend": 0.0,
+      "unused": 37.83
+    },
+    "B4_static_hardstop": {
+      "q": 0.5598,
+      "overspend": 0.0,
+      "unused": 37.83
+    },
+    "B4b_cascade": {
+      "q": 0.5614,
+      "overspend": 36.03,
+      "unused": 0.0
+    },
+    "B3b_static_knn": {
+      "q": 0.5936,
+      "overspend": 0.0,
+      "unused": 19.65
+    },
+    "B5_pacerouter": {
+      "q": 0.6528,
+      "overspend": 0.0,
+      "unused": 1.7
+    },
+    "B6_oracle_pacing": {
+      "q": 0.8994,
+      "overspend": 0.0,
+      "unused": 9.03
+    }
+  },
+  "ms_44_drift_0.75": {
+    "B1_random": {
+      "q": 0.6083,
+      "overspend": 423.51,
+      "unused": 0.0
+    },
+    "B2_always_cheapest": {
+      "q": 0.4946,
+      "overspend": 0.0,
+      "unused": 66.11
+    },
+    "B2_always_gpt4": {
+      "q": 0.8016,
+      "overspend": 1839.99,
+      "unused": 0.0
+    },
+    "B3_static": {
+      "q": 0.574,
+      "overspend": 0.0,
+      "unused": 47.49
+    },
+    "B4_static_hardstop": {
+      "q": 0.574,
+      "overspend": 0.0,
+      "unused": 47.49
+    },
+    "B4b_cascade": {
+      "q": 0.5804,
+      "overspend": 26.4,
+      "unused": 0.0
+    },
+    "B3b_static_knn": {
+      "q": 0.5936,
+      "overspend": 0.0,
+      "unused": 37.36
+    },
+    "B5_pacerouter": {
+      "q": 0.6936,
+      "overspend": 0.0,
+      "unused": 4.3
+    },
+    "B6_oracle_pacing": {
+      "q": 0.9079,
+      "overspend": 0.0,
+      "unused": 11.63
+    }
+  },
+  "ms_45_shuffle_0.25": {
+    "B1_random": {
+      "q": 0.6176,
+      "overspend": 835.72,
+      "unused": 0.0
+    },
+    "B2_always_cheapest": {
+      "q": 0.5054,
+      "overspend": 0.0,
+      "unused": 39.3
+    },
+    "B2_always_gpt4": {
+      "q": 0.8081,
+      "overspend": 3378.17,
+      "unused": 0.0
+    },
+    "B3_static": {
+      "q": 0.5901,
+      "overspend": 0.57,
+      "unused": 0.0
+    },
+    "B4_static_hardstop": {
+      "q": 0.5898,
+      "overspend": 0.02,
+      "unused": 0.0
+    },
+    "B4b_cascade": {
+      "q": 0.5688,
+      "overspend": 51.14,
+      "unused": 0.0
+    },
+    "B3b_static_knn": {
+      "q": 0.5997,
+      "overspend": 16.84,
+      "unused": 0.0
+    },
+    "B5_pacerouter": {
+      "q": 0.5893,
+      "overspend": 0.04,
+      "unused": 0.0
+    },
+    "B6_oracle_pacing": {
+      "q": 0.8549,
+      "overspend": 0.02,
+      "unused": 0.0
+    }
+  },
+  "ms_45_shuffle_0.5": {
+    "B1_random": {
+      "q": 0.6176,
+      "overspend": 571.72,
+      "unused": 0.0
+    },
+    "B2_always_cheapest": {
+      "q": 0.5054,
+      "overspend": 0.0,
+      "unused": 56.43
+    },
+    "B2_always_gpt4": {
+      "q": 0.8081,
+      "overspend": 2396.85,
+      "unused": 0.0
+    },
+    "B3_static": {
+      "q": 0.6623,
+      "overspend": 0.65,
+      "unused": 0.0
+    },
+    "B4_static_hardstop": {
+      "q": 0.6612,
+      "overspend": 0.0,
+      "unused": 0.0
+    },
+    "B4b_cascade": {
+      "q": 0.5898,
+      "overspend": 34.43,
+      "unused": 0.0
+    },
+    "B3b_static_knn": {
+      "q": 0.6208,
+      "overspend": 0.0,
+      "unused": 5.2
+    },
+    "B5_pacerouter": {
+      "q": 0.6606,
+      "overspend": 0.0,
+      "unused": 0.08
+    },
+    "B6_oracle_pacing": {
+      "q": 0.9026,
+      "overspend": 0.0,
+      "unused": 5.16
+    }
+  },
+  "ms_45_shuffle_0.75": {
+    "B1_random": {
+      "q": 0.6176,
+      "overspend": 423.9,
+      "unused": 0.0
+    },
+    "B2_always_cheapest": {
+      "q": 0.5054,
+      "overspend": 0.0,
+      "unused": 66.02
+    },
+    "B2_always_gpt4": {
+      "q": 0.8081,
+      "overspend": 1847.41,
+      "unused": 0.0
+    },
+    "B3_static": {
+      "q": 0.7023,
+      "overspend": 1.33,
+      "unused": 0.0
+    },
+    "B4_static_hardstop": {
+      "q": 0.6996,
+      "overspend": 0.01,
+      "unused": 0.0
+    },
+    "B4b_cascade": {
+      "q": 0.6058,
+      "overspend": 25.51,
+      "unused": 0.0
+    },
+    "B3b_static_knn": {
+      "q": 0.699,
+      "overspend": 3.67,
+      "unused": 0.0
+    },
+    "B5_pacerouter": {
+      "q": 0.7018,
+      "overspend": 0.01,
+      "unused": 0.0
+    },
+    "B6_oracle_pacing": {
+      "q": 0.9125,
+      "overspend": 0.0,
+      "unused": 6.77
+    }
+  },
+  "ms_45_drift_0.25": {
+    "B1_random": {
+      "q": 0.6176,
+      "overspend": 835.72,
+      "unused": 0.0
+    },
+    "B2_always_cheapest": {
+      "q": 0.5054,
+      "overspend": 0.0,
+      "unused": 39.3
+    },
+    "B2_always_gpt4": {
+      "q": 0.8081,
+      "overspend": 3378.17,
+      "unused": 0.0
+    },
+    "B3_static": {
+      "q": 0.554,
+      "overspend": 0.0,
+      "unused": 18.53
+    },
+    "B4_static_hardstop": {
+      "q": 0.554,
+      "overspend": 0.0,
+      "unused": 18.53
+    },
+    "B4b_cascade": {
+      "q": 0.5688,
+      "overspend": 51.14,
+      "unused": 0.0
+    },
+    "B3b_static_knn": {
+      "q": 0.5172,
+      "overspend": 0.0,
+      "unused": 34.64
+    },
+    "B5_pacerouter": {
+      "q": 0.5895,
+      "overspend": 0.04,
+      "unused": 0.0
+    },
+    "B6_oracle_pacing": {
+      "q": 0.8596,
+      "overspend": 0.02,
+      "unused": 0.0
+    }
+  },
+  "ms_45_drift_0.5": {
+    "B1_random": {
+      "q": 0.6176,
+      "overspend": 571.72,
+      "unused": 0.0
+    },
+    "B2_always_cheapest": {
+      "q": 0.5054,
+      "overspend": 0.0,
+      "unused": 56.43
+    },
+    "B2_always_gpt4": {
+      "q": 0.8081,
+      "overspend": 2396.85,
+      "unused": 0.0
+    },
+    "B3_static": {
+      "q": 0.5724,
+      "overspend": 0.0,
+      "unused": 34.73
+    },
+    "B4_static_hardstop": {
+      "q": 0.5724,
+      "overspend": 0.0,
+      "unused": 34.73
+    },
+    "B4b_cascade": {
+      "q": 0.5898,
+      "overspend": 34.43,
+      "unused": 0.0
+    },
+    "B3b_static_knn": {
+      "q": 0.582,
+      "overspend": 0.0,
+      "unused": 23.21
+    },
+    "B5_pacerouter": {
+      "q": 0.6573,
+      "overspend": 0.0,
+      "unused": 1.43
+    },
+    "B6_oracle_pacing": {
+      "q": 0.9015,
+      "overspend": 0.0,
+      "unused": 6.89
+    }
+  },
+  "ms_45_drift_0.75": {
+    "B1_random": {
+      "q": 0.6176,
+      "overspend": 423.9,
+      "unused": 0.0
+    },
+    "B2_always_cheapest": {
+      "q": 0.5054,
+      "overspend": 0.0,
+      "unused": 66.02
+    },
+    "B2_always_gpt4": {
+      "q": 0.8081,
+      "overspend": 1847.41,
+      "unused": 0.0
+    },
+    "B3_static": {
+      "q": 0.5863,
+      "overspend": 0.0,
+      "unused": 44.94
+    },
+    "B4_static_hardstop": {
+      "q": 0.5863,
+      "overspend": 0.0,
+      "unused": 44.94
+    },
+    "B4b_cascade": {
+      "q": 0.6058,
+      "overspend": 25.51,
+      "unused": 0.0
+    },
+    "B3b_static_knn": {
+      "q": 0.5928,
+      "overspend": 0.0,
+      "unused": 36.72
+    },
+    "B5_pacerouter": {
+      "q": 0.6942,
+      "overspend": 0.0,
+      "unused": 4.2
+    },
+    "B6_oracle_pacing": {
+      "q": 0.9099,
+      "overspend": 0.0,
+      "unused": 10.57
+    }
+  },
+  "ms_46_shuffle_0.25": {
+    "B1_random": {
+      "q": 0.6241,
+      "overspend": 874.15,
+      "unused": 0.0
+    },
+    "B2_always_cheapest": {
+      "q": 0.5108,
+      "overspend": 0.0,
+      "unused": 37.17
+    },
+    "B2_always_gpt4": {
+      "q": 0.8072,
+      "overspend": 3506.49,
+      "unused": 0.0
+    },
+    "B3_static": {
+      "q": 0.5991,
+      "overspend": 2.51,
+      "unused": 0.0
+    },
+    "B4_static_hardstop": {
+      "q": 0.5963,
+      "overspend": 0.02,
+      "unused": 0.0
+    },
+    "B4b_cascade": {
+      "q": 0.5639,
+      "overspend": 54.49,
+      "unused": 0.0
+    },
+    "B3b_static_knn": {
+      "q": 0.5983,
+      "overspend": 9.24,
+      "unused": 0.0
+    },
+    "B5_pacerouter": {
+      "q": 0.5909,
+      "overspend": 0.09,
+      "unused": 0.0
+    },
+    "B6_oracle_pacing": {
+      "q": 0.8463,
+      "overspend": 0.1,
+      "unused": 0.0
+    }
+  },
+  "ms_46_shuffle_0.5": {
+    "B1_random": {
+      "q": 0.6241,
+      "overspend": 610.18,
+      "unused": 0.0
+    },
+    "B2_always_cheapest": {
+      "q": 0.5108,
+      "overspend": 0.0,
+      "unused": 54.2
+    },
+    "B2_always_gpt4": {
+      "q": 0.8072,
+      "overspend": 2529.21,
+      "unused": 0.0
+    },
+    "B3_static": {
+      "q": 0.6632,
+      "overspend": 2.67,
+      "unused": 0.0
+    },
+    "B4_static_hardstop": {
+      "q": 0.6582,
+      "overspend": 0.01,
+      "unused": 0.0
+    },
+    "B4b_cascade": {
+      "q": 0.5869,
+      "overspend": 37.04,
+      "unused": 0.0
+    },
+    "B3b_static_knn": {
+      "q": 0.6453,
+      "overspend": 4.66,
+      "unused": 0.0
+    },
+    "B5_pacerouter": {
+      "q": 0.6558,
+      "overspend": 0.02,
+      "unused": 0.0
+    },
+    "B6_oracle_pacing": {
+      "q": 0.904,
+      "overspend": 0.0,
+      "unused": 6.07
+    }
+  },
+  "ms_46_shuffle_0.75": {
+    "B1_random": {
+      "q": 0.6241,
+      "overspend": 458.77,
+      "unused": 0.0
+    },
+    "B2_always_cheapest": {
+      "q": 0.5108,
+      "overspend": 0.0,
+      "unused": 63.96
+    },
+    "B2_always_gpt4": {
+      "q": 0.8072,
+      "overspend": 1968.65,
+      "unused": 0.0
+    },
+    "B3_static": {
+      "q": 0.6959,
+      "overspend": 1.84,
+      "unused": 0.0
+    },
+    "B4_static_hardstop": {
+      "q": 0.6921,
+      "overspend": 0.0,
+      "unused": 0.0
+    },
+    "B4b_cascade": {
+      "q": 0.6072,
+      "overspend": 27.34,
+      "unused": 0.0
+    },
+    "B3b_static_knn": {
+      "q": 0.655,
+      "overspend": 0.0,
+      "unused": 11.98
+    },
+    "B5_pacerouter": {
+      "q": 0.6915,
+      "overspend": 0.01,
+      "unused": 0.0
+    },
+    "B6_oracle_pacing": {
+      "q": 0.9144,
+      "overspend": 0.0,
+      "unused": 8.2
+    }
+  },
+  "ms_46_drift_0.25": {
+    "B1_random": {
+      "q": 0.6241,
+      "overspend": 874.15,
+      "unused": 0.0
+    },
+    "B2_always_cheapest": {
+      "q": 0.5108,
+      "overspend": 0.0,
+      "unused": 37.17
+    },
+    "B2_always_gpt4": {
+      "q": 0.8072,
+      "overspend": 3506.49,
+      "unused": 0.0
+    },
+    "B3_static": {
+      "q": 0.5622,
+      "overspend": 0.0,
+      "unused": 15.86
+    },
+    "B4_static_hardstop": {
+      "q": 0.5622,
+      "overspend": 0.0,
+      "unused": 15.86
+    },
+    "B4b_cascade": {
+      "q": 0.5639,
+      "overspend": 54.49,
+      "unused": 0.0
+    },
+    "B3b_static_knn": {
+      "q": 0.5628,
+      "overspend": 0.0,
+      "unused": 11.85
+    },
+    "B5_pacerouter": {
+      "q": 0.5905,
+      "overspend": 0.09,
+      "unused": 0.0
+    },
+    "B6_oracle_pacing": {
+      "q": 0.8487,
+      "overspend": 0.06,
+      "unused": 0.0
+    }
+  },
+  "ms_46_drift_0.5": {
+    "B1_random": {
+      "q": 0.6241,
+      "overspend": 610.18,
+      "unused": 0.0
+    },
+    "B2_always_cheapest": {
+      "q": 0.5108,
+      "overspend": 0.0,
+      "unused": 54.2
+    },
+    "B2_always_gpt4": {
+      "q": 0.8072,
+      "overspend": 2529.21,
+      "unused": 0.0
+    },
+    "B3_static": {
+      "q": 0.574,
+      "overspend": 0.0,
+      "unused": 33.93
+    },
+    "B4_static_hardstop": {
+      "q": 0.574,
+      "overspend": 0.0,
+      "unused": 33.93
+    },
+    "B4b_cascade": {
+      "q": 0.5869,
+      "overspend": 37.04,
+      "unused": 0.0
+    },
+    "B3b_static_knn": {
+      "q": 0.577,
+      "overspend": 0.0,
+      "unused": 29.16
+    },
+    "B5_pacerouter": {
+      "q": 0.6545,
+      "overspend": 0.0,
+      "unused": 0.68
+    },
+    "B6_oracle_pacing": {
+      "q": 0.9026,
+      "overspend": 0.0,
+      "unused": 7.59
+    }
+  },
+  "ms_46_drift_0.75": {
+    "B1_random": {
+      "q": 0.6241,
+      "overspend": 458.77,
+      "unused": 0.0
+    },
+    "B2_always_cheapest": {
+      "q": 0.5108,
+      "overspend": 0.0,
+      "unused": 63.96
+    },
+    "B2_always_gpt4": {
+      "q": 0.8072,
+      "overspend": 1968.65,
+      "unused": 0.0
+    },
+    "B3_static": {
+      "q": 0.5925,
+      "overspend": 0.0,
+      "unused": 43.14
+    },
+    "B4_static_hardstop": {
+      "q": 0.5925,
+      "overspend": 0.0,
+      "unused": 43.14
+    },
+    "B4b_cascade": {
+      "q": 0.6072,
+      "overspend": 27.34,
+      "unused": 0.0
+    },
+    "B3b_static_knn": {
+      "q": 0.643,
+      "overspend": 0.0,
+      "unused": 19.34
+    },
+    "B5_pacerouter": {
+      "q": 0.6885,
+      "overspend": 0.0,
+      "unused": 2.46
+    },
+    "B6_oracle_pacing": {
+      "q": 0.9118,
+      "overspend": 0.0,
+      "unused": 11.52
+    }
+  }
+}

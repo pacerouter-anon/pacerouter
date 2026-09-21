@@ -1,0 +1,29 @@
+{
+  "B3_static": {
+    "avg_quality": 0.5671,
+    "spent": 1.79,
+    "overspend": 0.0,
+    "unused": 0.4926
+  },
+  "B4_static_hardstop": {
+    "avg_quality": 0.5671,
+    "spent": 1.79,
+    "overspend": 0.0,
+    "unused": 0.4926,
+    "hard_stop_at": 1.0
+  },
+  "B5_pacerouter": {
+    "avg_quality": 0.6784,
+    "spent": 3.4,
+    "overspend": 0.0,
+    "unused": 0.0367,
+    "lam_start": 477.37,
+    "lam_end": 406.39
+  },
+  "B6_oracle_pacing": {
+    "avg_quality": 0.9048,
+    "spent": 3.09,
+    "overspend": 0.0,
+    "unused": 0.124
+  }
+}

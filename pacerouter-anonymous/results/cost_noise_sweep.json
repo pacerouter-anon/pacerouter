@@ -1,0 +1,32 @@
+{
+  "0.0": {
+    "quality": 0.6548,
+    "overspend": 0.0,
+    "unused": 0.0136,
+    "lam_bar": 623.4
+  },
+  "0.1": {
+    "quality": 0.6486,
+    "overspend": 0.0,
+    "unused": 0.0146,
+    "lam_bar": 630.2
+  },
+  "0.25": {
+    "quality": 0.6382,
+    "overspend": 0.0,
+    "unused": 0.013,
+    "lam_bar": 693.3
+  },
+  "0.5": {
+    "quality": 0.6027,
+    "overspend": 0.0001,
+    "unused": 0.0,
+    "lam_bar": 999.4
+  },
+  "1.0": {
+    "quality": 0.5775,
+    "overspend": 0.0001,
+    "unused": 0.0,
+    "lam_bar": 2346.3
+  }
+}

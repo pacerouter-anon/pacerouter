@@ -1,0 +1,26 @@
+{
+  "random": {
+    "avg_quality": 0.6150765816368469,
+    "total_cost": 79.35513793999999,
+    "cost_per_query": 0.002173458353372956,
+    "wall_time_s": 0.0
+  },
+  "always_gpt4": {
+    "avg_quality": 0.8048264240896512,
+    "total_cost": 290.01682999999997,
+    "cost_per_query": 0.007943272712333268,
+    "wall_time_s": 0.0
+  },
+  "always_cheapest(mistral-7b-chat)": {
+    "avg_quality": 0.4998534126092556,
+    "total_cost": 5.070354200000001,
+    "cost_per_query": 0.0001388719618745036,
+    "wall_time_s": 0.0
+  },
+  "oracle": {
+    "avg_quality": 0.9183739147106351,
+    "total_cost": 17.894388772,
+    "cost_per_query": 0.0004901095223905124,
+    "wall_time_s": 0.01
+  }
+}

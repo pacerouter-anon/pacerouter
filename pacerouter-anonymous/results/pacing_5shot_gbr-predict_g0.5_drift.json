@@ -1,0 +1,60 @@
+{
+  "B1_random": {
+    "avg_quality": 0.6241,
+    "spent": 18.86,
+    "overspend": 6.1018,
+    "unused": 0.0
+  },
+  "B2_always_cheapest": {
+    "avg_quality": 0.5108,
+    "spent": 1.22,
+    "overspend": 0.0,
+    "unused": 0.542
+  },
+  "B2_always_gpt4": {
+    "avg_quality": 0.8072,
+    "spent": 69.82,
+    "overspend": 25.2921,
+    "unused": 0.0
+  },
+  "B3_static": {
+    "avg_quality": 0.574,
+    "spent": 1.75,
+    "overspend": 0.0,
+    "unused": 0.3393
+  },
+  "B4_static_hardstop": {
+    "avg_quality": 0.574,
+    "spent": 1.75,
+    "overspend": 0.0,
+    "unused": 0.3393,
+    "hard_stop_at": 1.0
+  },
+  "B4b_cascade": {
+    "avg_quality": 0.5869,
+    "spent": 3.64,
+    "overspend": 0.3704,
+    "unused": 0.0
+  },
+  "B3b_static_knn": {
+    "avg_quality": 0.577,
+    "spent": 1.88,
+    "overspend": 0.0,
+    "unused": 0.2916
+  },
+  "B5_pacerouter": {
+    "avg_quality": 0.6545,
+    "spent": 2.64,
+    "overspend": 0.0,
+    "unused": 0.0068,
+    "lam0_used": 887.06,
+    "lam_start": 583.99,
+    "lam_end": 741.54
+  },
+  "B6_oracle_pacing": {
+    "avg_quality": 0.9026,
+    "spent": 2.45,
+    "overspend": 0.0,
+    "unused": 0.0759
+  }
+}

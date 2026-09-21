@@ -1,0 +1,236 @@
+{
+  "S1a_trigger_stats": {
+    "5shot_shuffle_g0.25": {
+      "q": 0.5852,
+      "over": 0.0002,
+      "unused": 0.0,
+      "n_trigger_segments": 475,
+      "first_trigger_at": 0.89
+    },
+    "5shot_shuffle_g0.5": {
+      "q": 0.6569,
+      "over": 0.0001,
+      "unused": 0.0,
+      "n_trigger_segments": 49,
+      "first_trigger_at": 0.989
+    },
+    "5shot_shuffle_g0.75": {
+      "q": 0.6926,
+      "over": 0.0,
+      "unused": 0.0266,
+      "n_trigger_segments": 0,
+      "first_trigger_at": null
+    },
+    "5shot_drift_g0.25": {
+      "q": 0.588,
+      "over": 0.0003,
+      "unused": 0.0,
+      "n_trigger_segments": 127,
+      "first_trigger_at": 0.97
+    },
+    "5shot_drift_g0.5": {
+      "q": 0.6548,
+      "over": 0.0,
+      "unused": 0.0136,
+      "n_trigger_segments": 0,
+      "first_trigger_at": null
+    },
+    "5shot_drift_g0.75": {
+      "q": 0.6884,
+      "over": 0.0,
+      "unused": 0.041,
+      "n_trigger_segments": 0,
+      "first_trigger_at": null
+    },
+    "0shot_shuffle_g0.25": {
+      "q": 0.5428,
+      "over": 0.0048,
+      "unused": 0.0,
+      "n_trigger_segments": 1096,
+      "first_trigger_at": 0.75
+    },
+    "0shot_shuffle_g0.5": {
+      "q": 0.6563,
+      "over": 0.0,
+      "unused": 0.0062,
+      "n_trigger_segments": 0,
+      "first_trigger_at": null
+    },
+    "0shot_shuffle_g0.75": {
+      "q": 0.6688,
+      "over": 0.0,
+      "unused": 0.0119,
+      "n_trigger_segments": 0,
+      "first_trigger_at": null
+    },
+    "0shot_drift_g0.25": {
+      "q": 0.5846,
+      "over": 0.0,
+      "unused": 0.0063,
+      "n_trigger_segments": 0,
+      "first_trigger_at": null
+    },
+    "0shot_drift_g0.5": {
+      "q": 0.6396,
+      "over": 0.0,
+      "unused": 0.1151,
+      "n_trigger_segments": 0,
+      "first_trigger_at": null
+    },
+    "0shot_drift_g0.75": {
+      "q": 0.6536,
+      "over": 0.0,
+      "unused": 0.1215,
+      "n_trigger_segments": 0,
+      "first_trigger_at": null
+    }
+  },
+  "S1b_margin_sensitivity": {
+    "-0.2": {
+      "q": 0.6548,
+      "over": 0.0,
+      "unused": 0.0136
+    },
+    "0.0": {
+      "q": 0.6548,
+      "over": 0.0,
+      "unused": 0.0136
+    },
+    "0.2": {
+      "q": 0.6548,
+      "over": 0.0,
+      "unused": 0.0136
+    },
+    "0.5": {
+      "q": 0.6548,
+      "over": 0.0,
+      "unused": 0.0136
+    }
+  },
+  "S3_adversarial": {
+    "2": {
+      "q": 0.6544,
+      "over": 0.0,
+      "unused": 0.0118,
+      "lam_final": 636.0,
+      "lam_oscillation": 0.375
+    },
+    "5": {
+      "q": 0.6544,
+      "over": 0.0,
+      "unused": 0.0125,
+      "lam_final": 598.1,
+      "lam_oscillation": 0.562
+    },
+    "20": {
+      "q": 0.6548,
+      "over": 0.0,
+      "unused": 0.0128,
+      "lam_final": 591.7,
+      "lam_oscillation": 0.562
+    }
+  },
+  "S5_clip_sweep": {
+    "0.8_1.05": {
+      "q": 0.6513,
+      "over": 0.0,
+      "unused": 0.0257
+    },
+    "0.8_1.1": {
+      "q": 0.6513,
+      "over": 0.0,
+      "unused": 0.0257
+    },
+    "0.8_1.25": {
+      "q": 0.6513,
+      "over": 0.0,
+      "unused": 0.0257
+    },
+    "0.8_2.0": {
+      "q": 0.6513,
+      "over": 0.0,
+      "unused": 0.0257
+    },
+    "0.9_1.05": {
+      "q": 0.6499,
+      "over": 0.0,
+      "unused": 0.0358
+    },
+    "0.9_1.1": {
+      "q": 0.6499,
+      "over": 0.0,
+      "unused": 0.0358
+    },
+    "0.9_1.25": {
+      "q": 0.6499,
+      "over": 0.0,
+      "unused": 0.0358
+    },
+    "0.9_2.0": {
+      "q": 0.6499,
+      "over": 0.0,
+      "unused": 0.0358
+    },
+    "0.95_1.05": {
+      "q": 0.6451,
+      "over": 0.0,
+      "unused": 0.0542
+    },
+    "0.95_1.1": {
+      "q": 0.6451,
+      "over": 0.0,
+      "unused": 0.0542
+    },
+    "0.95_1.25": {
+      "q": 0.6451,
+      "over": 0.0,
+      "unused": 0.0542
+    },
+    "0.95_2.0": {
+      "q": 0.6451,
+      "over": 0.0,
+      "unused": 0.0542
+    }
+  },
+  "calibration_size": {
+    "0.1": {
+      "n_calib": 1095,
+      "static": {
+        "q": 0.5682,
+        "over": 0.0,
+        "unused": 0.3643
+      },
+      "pacing": {
+        "q": 0.6545,
+        "over": 0.0,
+        "unused": 0.0098
+      }
+    },
+    "0.2": {
+      "n_calib": 2190,
+      "static": {
+        "q": 0.57,
+        "over": 0.0,
+        "unused": 0.3532
+      },
+      "pacing": {
+        "q": 0.6548,
+        "over": 0.0,
+        "unused": 0.0136
+      }
+    },
+    "0.4": {
+      "n_calib": 3797,
+      "static": {
+        "q": 0.5665,
+        "over": 0.0,
+        "unused": 0.3419
+      },
+      "pacing": {
+        "q": 0.6467,
+        "over": 0.0,
+        "unused": 0.0109
+      }
+    }
+  }
+}

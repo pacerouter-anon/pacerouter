@@ -1,0 +1,26 @@
+{
+  "0.5": {
+    "quality": 0.7739,
+    "overspend": 0.0002
+  },
+  "0.3": {
+    "quality": 0.8168,
+    "overspend": 0.0002
+  },
+  "0.2": {
+    "quality": 0.8325,
+    "overspend": 0.0001
+  },
+  "0.1": {
+    "quality": 0.8564,
+    "overspend": 0.0001
+  },
+  "0.05": {
+    "quality": 0.8702,
+    "overspend": 0.0001
+  },
+  "0.0": {
+    "quality": 0.8851,
+    "overspend": 0.002
+  }
+}
