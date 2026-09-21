@@ -39,8 +39,20 @@ Then run `python embed_prompts.py` once (CPU, ~35 min per split) to build `data/
 python pacerouter.py --dataset 5shot --gamma 0.5 --stream drift
 ```
 
-Expected output (seed 42): PaceRouter quality ≈ 0.6548, overspend ≈ 0%, unused ≈ 1.4%;
+Expected output (seed 42, single run): PaceRouter quality ≈ 0.6548, overspend ≈ 0%, unused ≈ 1.4%. The paper's Table 2 reports the five-seed mean (0.6539±0.0023); single-seed results differ slightly as the trajectory depends on the random online order.
 Static baseline quality ≈ 0.5700 with ≈ 35% of the budget unused.
+
+## Notation mapping (paper ↔ code)
+
+| Paper | Code | Meaning |
+|---|---|---|
+| $\lambda_t$ / $\lambda_j$ | `lam` | online shadow price |
+| $\eta^{*}$ | `lam_star` (calibration output) | history-calibrated static price (static baselines) |
+| $\varepsilon_q, \varepsilon_c$ | predictor error bounds | quality / cost predictor errors |
+| $\rho_{min}, \rho_{max}$ | `rho_min`, `rho_max` (default 0.5/2.0) | clip bounds of the pacing update |
+| $n_c$ | `chunk` (default 500) | micro-batch size |
+| $\gamma$ | `--gamma` | budget level in the feasible region |
+| `drift` traffic | `--stream drift` | history segment = easy tasks only |
 
 ## License
 
