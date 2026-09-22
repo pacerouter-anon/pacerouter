@@ -11,6 +11,7 @@ Anonymous code release for the paper *"Budget-Paced Routing for Large Language M
 | `pacerouter.py` | **PaceRouter main method** (bidirectional pacing + per-query cost prediction + safety net) |
 | `cbwk_router.py` | Predictor-family variants (LinUCB with online updates, GBR-ensemble) |
 | `pdbwk_fair.py` | Faithful PD-BwK baseline (UCB/LCB, monotone multiplicative update) |
+| `port_baseline.py` | PORT (NeurIPS 2025) re-implementation for the E9 comparison |
 | `noise_sweep.py` | E4: quality-predictor noise sweep |
 | `cost_noise_sweep.py` | Cost-predictor noise sweep (verification of the λ̄ε_c term) |
 | `revision_experiments.py` | Safety-net telemetry, adversarial oscillating traffic, clip sweep, calibration-size control |
