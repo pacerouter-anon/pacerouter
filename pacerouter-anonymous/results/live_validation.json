@@ -1,0 +1,9 @@
+{
+  "n": 150, "mean": 150.85, "p50": 189.5, "p99": 256.0, "skew": -0.484,
+  "p99_p50": 1.35, "max": 256,
+  "gsm8k": {"mean": 219.16, "p50": 226.0, "p99": 256.0, "skew": -0.501},
+  "mmlu": {"mean": 82.55, "p50": 2.0, "p99": 256.0, "skew": 0.793},
+  "routerbench_mistral7b_reference": {"mean": 57, "p50": 2, "p99": 395, "p99_p50": 198, "skew": 13.0},
+  "setup": "Qwen2.5-0.5B-Instruct, CPU, greedy decoding, max_new_tokens=256 (truncation at 256)",
+  "note": "skew 为负因 256 截断截去右尾; MMLU 偏度 +0.79 (右偏). 结构一致: 选择题极短(2 token), 数学题长(226), 两极分化"
+}
